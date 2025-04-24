@@ -1,0 +1,7 @@
+print("Hello, world!")
+print("primeira modificação")
+print("Segunda modificação")
+print("Terceira modificação")
+print("Quarta modificação")
+print("Quinta modificação - teste de checkout")
+print("Sexta modificação")
